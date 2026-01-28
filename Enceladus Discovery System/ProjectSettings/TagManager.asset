@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Graund
+  - Water
+  - ZipLine
+  - wall
+  - car
+  - Vehicle
+  - Item
+  - ammo
+  - balanceStick
+  - Weapon
   layers:
   - Default
   - TransparentFX
@@ -11,13 +21,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Matel
+  - Die
+  - Vehicle
+  - Item
+  - enemy
   - 
   - 
   - 
