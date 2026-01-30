@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c1fead85defe484b97d7defd1c6e6c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - passableUnstable: {fileID: 2100000, guid: efb9d2204cdaaad4498b6ab4deb65638, type: 2}
+  - unpassableUnstable: {fileID: 2100000, guid: b5344fe6bef8cde48ab1898df4254f2c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
